@@ -1,0 +1,11 @@
+#heading{
+    text-align: center;
+}
+.main{
+    background-color: #5b8dc0;
+    border-radius: 5px;
+    outline:  none;
+}
+.main2{
+    background-color: green;
+}
